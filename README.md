@@ -2,6 +2,10 @@
 
 - Frontend of API showcasing functionalities of a fintech for making transactions such as deposit, Withdrawal and sending money.
 
+## Live Link
+
+[Demo Site](https://nimble-axolotl-526ce2.netlify.app/)
+
 ## Screenshot
 
 ![screenshot](./src/assets/screen.png)
