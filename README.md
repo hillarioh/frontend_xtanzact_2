@@ -1,6 +1,6 @@
 # Fintech APP
 
-- Frontend of API showcasing functionalities of a fintech for making transactions such as deposit, Withdrawal and sending money.
+> Frontend of API showcasing functionalities of a fintech for making transactions such as deposit, Withdrawal and sending money.
 
 ## Live Link
 

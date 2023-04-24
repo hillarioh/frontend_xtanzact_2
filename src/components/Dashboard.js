@@ -29,7 +29,7 @@ function Dashboard() {
 
   return (
     <>
-      <div className="col-6">
+      <div className="col-12 col-md-6">
         <div className="p-2 my-1">
           <h2>Accounts</h2>
           <div className="card mb-3 p-2">
@@ -54,7 +54,7 @@ function Dashboard() {
           </ul>
         </div>
       </div>
-      <div className="col-6">
+      <div className="col-12 col-md-6">
         <Transaction transactions={transactions} />
       </div>
     </>
